@@ -1,36 +1,59 @@
-# Portfolio — Rehan Haider
+Portfolio – Rehan Haider
 
-This folder contains the static portfolio site for Rehan Haider.
+This is my personal portfolio website built with HTML, CSS and JavaScript.
+It showcases my skills, projects and contact information as I work toward becoming a full stack web developer.
 
-Contents:
-- `portfolio.html` — main site
-- `assets/` — images and PDF resume
+📌 Features
 
-What I did for you here:
-- Prepared the site and embedded the updated resume PDF `assets/Rehan_Haider_Resume_Updated.pdf`.
-- Added this README and a `.gitignore`.
+Clean and responsive layout
 
-How to push to GitHub (choose one):
+Sidebar navigation with scroll-to-section
 
-1) Create a new empty repository on GitHub (via the website) and then run these commands from this folder:
+Modern hero section with personal introduction
 
-```powershell
-# run from: c:\university work\web lab\phase1
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-git branch -M main
-git push -u origin main
-```
+About section with detailed summary
 
-2) Or, if you use the GitHub CLI (gh) and are logged in:
+Skills section split into Frontend, Backend and Tools
 
-```powershell
-# create repo and push in one line (changes remote automatically)
-gh repo create YOUR_USERNAME/YOUR_REPO_NAME --public --source=. --remote=origin --push
-```
+Project gallery linked to GitHub repositories
 
-Notes:
-- Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your GitHub username and desired repo name.
-- If your repo is private, omit `--public` and/or set appropriate visibility.
-- If your git credential helper is not configured, pushing will prompt you for credentials or your PAT.
+Contact form with Formspree integration
 
-If you want, I can (a) create a backup of the previous resume file, and (b) attempt to create the remote repo for you using the gh CLI if you confirm you have it installed and are logged in. Otherwise, run the commands above to publish the project.
+Local message saving fallback
+
+Smooth animations and soft card design
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Formspree (for contact form)
+
+📂 Project Structure
+/
+├── index.html
+├── assets/ (optional for images, if added later)
+├── README.md
+
+🚀 How to Use / Run
+
+Clone the repo:
+
+git clone https://github.com/YourRepoHere
+
+
+Open index.html in any browser.
+
+📧 Contact
+
+Feel free to connect with me:
+
+Email: rehanhaiderd23@gmail.com
+
+GitHub: https://github.com/RehanDurraniCodes
+
+LinkedIn: https://www.linkedin.com/in/rehan-haider-613a2b344
